@@ -38,4 +38,5 @@ int main()
         std::cout << std::endl;
     }
 
-    ret
+    return 0;
+}
